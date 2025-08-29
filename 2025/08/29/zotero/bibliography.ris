@@ -1,0 +1,222 @@
+TY  - COMP
+TI  - `R`: A Language and Environment for Statistical Computing
+AU  - R Core Team
+CY  - Vienna, Austria
+DA  - 2024///
+PY  - 2024
+PB  - R Foundation for Statistical Computing
+UR  - https://www.R-project.org/
+ER  - 
+
+TY  - COMP
+TI  - `cpp11`: A C++11 Interface for R's C Interface
+AU  - Vaughan, Davis
+AU  - Hester, Jim
+AU  - François, Romain
+DA  - 2023///
+PY  - 2023
+UR  - https://CRAN.R-project.org/package=cpp11
+N1  - <p>R package version 0.4.7</p>
+ER  - 
+
+TY  - COMP
+TI  - `pcaPP`: Robust PCA by Projection Pursuit
+AU  - Filzmoser, Peter
+AU  - Fritz, Heinrich
+AU  - Kalcher, Klaudius
+DA  - 2023///
+PY  - 2023
+UR  - https://CRAN.R-project.org/package=pcaPP
+N1  - <p>R package version 2.0-4</p>
+ER  - 
+
+TY  - JOUR
+TI  - Fast algorithms for the calculation of Kendall's τ
+AU  - Christensen, David
+T2  - Computational statistics
+DA  - 2005///
+PY  - 2005
+DO  - 10.1007/BF02736122
+VL  - 20
+IS  - 1
+SP  - 51
+EP  - 62
+LA  - eng
+SN  - 0943-4062
+ER  - 
+
+TY  - JOUR
+TI  - Computation of the maximum rank correlation estimator
+AU  - Abrevaya, Jason
+T2  - Economics Letters
+AB  - This paper shows that the objective function for the maximum rank correlation estimator can be evaluated in O(nlogn) calculations (where n is the sample size). Previously, O(n2) calculations were thought necessary for computation of the objective function.
+DA  - 1999/03//
+PY  - 1999
+DO  - 10.1016/S0165-1765(98)00255-9
+VL  - 62
+IS  - 3
+SP  - 279
+EP  - 285
+SN  - 0165-1765
+UR  - https://www.sciencedirect.com/science/article/pii/S0165176598002559
+Y2  - 2024/08/16/
+KW  - Binary search tree
+KW  - Rank estimation
+ER  - 
+
+TY  - JOUR
+TI  - A Computer Method for Calculating Kendall's Tau with Ungrouped Data
+AU  - Knight, William R.
+T2  - Journal of the American Statistical Association
+AB  - Adapting the usual manual methods of computing Kendall's tau to automatic computation result in a running time of order N 2 . A method is described with running time of order N log N.
+DA  - 1966///
+PY  - 1966
+DO  - 10.1080/01621459.1966.10480879
+VL  - 61
+IS  - 314
+SP  - 436
+EP  - 439
+LA  - eng
+SN  - 0162-1459
+N1  - <p>Publisher: Taylor &amp; Francis Group</p>
+KW  - String
+ER  - 
+
+TY  - GEN
+TI  - Khufu: Object-Oriented Programming using C++
+AU  - Emara, Salma
+DA  - 2024///
+PY  - 2024
+UR  - https://learningcpp.org/cover.html
+Y2  - 2024/08/16/
+ER  - 
+
+TY  - JOUR
+TI  - `testthat': Get Started with Testing
+AU  - Wickham, Hadley
+T2  - The R Journal
+DA  - 2011///
+PY  - 2011
+VL  - 3
+SP  - 5
+EP  - 10
+UR  - https://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf
+ER  - 
+
+TY  - COMP
+TI  - `capybara`: Fast and Memory Efficient Fitting of Linear Models With High-Dimensional Fixed Effects
+AU  - Sepulveda, Mauricio Vargas
+DA  - 2024///
+PY  - 2024
+UR  - https://pacha.dev/capybara/
+N1  - <p>R package version 0.6.0, https://github.com/pachadotdev/capybara</p>
+ER  - 
+
+TY  - COMP
+TI  - Kendall: Kendall Rank Correlation and Mann-Kendall Trend Test
+AU  - McLeod, A. I.
+DA  - 2022///
+PY  - 2022
+UR  - https://CRAN.R-project.org/package=Kendall
+N1  - <p>R package version 2.2.1</p>
+ER  - 
+
+TY  - JOUR
+TI  - The Log of Gravity
+AU  - Silva, J. M. C. Santos
+AU  - Tenreyro, Silvana
+T2  - The Review of Economics and Statistics
+AB  - Although economists have long been aware of Jensen's inequality, many econometric applications have neglected an important implication of it: under heteroskedasticity, the parameters of log-linearized models estimated by OLS lead to biased estimates of the true elasticities. We explain why this problem arises and propose an appropriate estimator. Our criticism of conventional practices and the proposed solution extend to a broad range of applications where log-linearized equations are estimated. We develop the argument using one particular illustration, the gravity equation for trade. We find significant differences between estimates obtained with the proposed estimator and those obtained with the traditional method.
+DA  - 2006/11//
+PY  - 2006
+DO  - 10.1162/rest.88.4.641
+VL  - 88
+IS  - 4
+SP  - 641
+EP  - 658
+SN  - 0034-6535
+UR  - https://doi.org/10.1162/rest.88.4.641
+Y2  - 2024/03/20/
+ER  - 
+
+TY  - GEN
+TI  - Replicating The Log of Gravity
+AU  - Sepúlveda, Mauricio Vargas
+AB  - This document replicates the main results from Santos Silva and Tenreyro (2006 in R. The original results were obtained in TSP back in 2006. The idea here is to be explicit regarding the conceptual approach to regression in R. For most of the replication I used base R without external libraries except when it was absolutely necessary. The findings are consistent with the original article and reveal that the replication effort is minimal, without the need to contact the authors for clarifications or incur into data transformations or filtering not mentioned in the article.
+DA  - 2024/09//
+PY  - 2024
+PB  - arXiv
+UR  - http://arxiv.org/abs/2409.09066
+Y2  - 2024/10/16/
+N1  - <p>arXiv:2409.09066</p>
+KW  - Economics - General Economics
+KW  - Quantitative Finance - Economics
+KW  - Statistics - Computation
+KW  - Statistics - Methodology
+ER  - 
+
+TY  - BOOK
+TI  - An Advanced Guide to Trade Policy Analysis: The Structural Gravity Model
+AU  - Yotov, Yoto V.
+AU  - Piermartini, Roberta
+AU  - Monteiro, Jose-Antonio
+AU  - Larch, Mario
+AB  - An Advanced Guide to Trade Policy Analysis is a follow up to A Practical Guide to Trade Policy Analysis. The Advanced Guide provides the most recent tools for analysis of trade policy using structural gravity models. Written by experts who have contributed to the development of theoretical and empirical methods in the academic gravity literature and who have rich practical experience in the field, this publication explains how to conduct partial equilibrium estimations as well as general equilibrium analysis with structural gravity models and contains practical guidance on how to apply these tools to concrete policy questions.
+DA  - 2016/11//
+PY  - 2016
+LA  - en
+PB  - WTO iLibrary
+SN  - 978-92-870-4368-9
+ST  - An Advanced Guide to Trade Policy Analysis
+UR  - https://www.wto-ilibrary.org/content/books/9789287043689
+Y2  - 2024/09/05/
+ER  - 
+
+TY  - JOUR
+TI  - OLS with multiple high dimensional category variables
+AU  - Gaure, Simen
+T2  - Computational Statistics & Data Analysis
+AB  - A new algorithm is proposed for OLS estimation of linear models with multiple high-dimensional category variables. It is a generalization of the within transformation to arbitrary number of category variables. The approach, unlike other fast methods for solving such problems, provides a covariance matrix for the remaining coefficients. The article also sets out a method for solving the resulting sparse system, and the new scheme is shown, by some examples, to be comparable in computational efficiency to other fast methods. The method is also useful for transforming away groups of pure control dummies. A parallelized implementation of the proposed method has been made available as an R-package lfe on CRAN.
+DA  - 2013/10//
+PY  - 2013
+DO  - 10.1016/j.csda.2013.03.024
+VL  - 66
+SP  - 8
+EP  - 18
+SN  - 0167-9473
+UR  - https://www.sciencedirect.com/science/article/pii/S0167947313001266
+Y2  - 2025/02/25/
+KW  - Alternating projections
+KW  - Fixed effect estimator
+KW  - High dimensional category variables
+KW  - Kaczmarz method
+KW  - Multiple fixed effects
+KW  - Panel data
+KW  - Two-way fixed effects
+ER  - 
+
+TY  - GEN
+TI  - Manufacturing sales, by industry for 15 Selected Census Metropolitan Areas
+AU  - Government of Canada, Statistics Canada
+AB  - Monthly Canadian manufacturer's sales for 15 census metropolitan areas (CMA) for durable and non-durable goods by North American Industry Classification System (NAICS). Data in thousands of dollars. Unadjusted and seasonally adjusted data available from January 2013 to the current reference month. Not all combinations are available.
+DA  - 2019/09//
+PY  - 2019
+LA  - eng
+UR  - https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1610001101
+Y2  - 2025/05/15/
+N1  - <p>Last Modified: 2025-05-15</p>
+ER  - 
+
+TY  - BOOK
+TI  - Spurious Correlations
+AU  - Vigen, Tyler
+AB  - "Spurious Correlations ... is the most fun you'll ever have with graphs." – Bustle Military intelligence analyst and Harvard Law student Tyler Vigen illustrates the golden rule that "correlation does not equal causation" through hilarious graphs inspired by his viral website.Is there a correlation between Nic Cage films and swimming pool accidents? What about beef consumption and people getting struck by lightning? Absolutely not. But that hasn't stopped millions of people from going to tylervigen.com and asking, "Wait, what?" Vigen has designed software that scours enormous data sets to find unlikely statistical correlations. He began pulling the funniest ones for his website and has since gained millions of views, hundreds of thousands of likes, and tons of media coverage. Subversive and clever, Spurious Correlations is geek humor at its finest, nailing our obsession with data and conspiracy theory.
+CY  - New York Boston
+DA  - 2015/05//
+PY  - 2015
+LA  - English
+PB  - Grand Central Publishing
+SN  - 978-0-316-33943-8
+UR  - https://www.indigo.ca/en-ca/spurious-correlations/9780316339438.html
+ER  - 
+

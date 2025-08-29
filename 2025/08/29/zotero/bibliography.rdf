@@ -1,0 +1,1036 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
+    <bib:Document rdf:about="https://www.stata.com/order/new/edu/profplus/student-pricing/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Stata Corp</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2"/>
+        <dc:title>Buy Stata | Student single-user purchases (educational)</dc:title>
+        <dcterms:abstract>Stata Student single-user purchases</dcterms:abstract>
+        <dc:date>2025</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.stata.com/order/new/edu/profplus/student-pricing/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:27:21</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.stata.com/order/new/edu/profplus/student-pricing/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:27:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.stata.com/order/new/edu/lab-licenses/dl/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Stata Corp</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4"/>
+        <dc:title>Buy Stata | Student Lab new purchases (educational)</dc:title>
+        <dcterms:abstract>Educational single-user new purchases</dcterms:abstract>
+        <dc:date>2025</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.stata.com/order/new/edu/lab-licenses/dl/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:30:58</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.stata.com/order/new/edu/lab-licenses/dl/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:31:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://madrury.github.io/jekyll/update/statistics/2016/07/20/lm-in-R.html">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Drury</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Deep Dive Into How R Fits a Linear Model</dc:title>
+        <dc:date>2016-06-20</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://madrury.github.io/jekyll/update/statistics/2016/07/20/lm-in-R.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:33:19</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Book rdf:about="urn:isbn:978-92-1-058519-4">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>United Nations</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yotov</foaf:surname>
+                        <foaf:givenName>Yoto V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Piermartini</foaf:surname>
+                        <foaf:givenName>Roberta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Monteiro</foaf:surname>
+                        <foaf:givenName>José-Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Larch</foaf:surname>
+                        <foaf:givenName>Mario</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_9"/>
+        <dc:title>An Advanced Guide to Trade Policy Analysis: The Structural Gravity Model</dc:title>
+        <dcterms:abstract>This Advanced Guide to Trade Policy Analysis is a complementary follow-up to the original Practical Guide to Trade Policy Analysis. It provides the most recent tools for analysis of trade policy using structural gravity models. Written by experts who have contributed to the development of theoretical and empirical methods in the academic gravity literature and who have rich practical experience in the field, this publication explains how to conduct partial equilibrium estimations as well as general equilibrium analysis with structural gravity models and contains practical guidance on how to apply these tools to concrete policy questions. This Advanced Guide has been developed to contribute to the enhancement of developing countries’ capacity to analyse and implement trade policy. It is aimed at government experts engaged in trade negotiations, as well as graduate students and researchers involved in trade-related study or research.</dcterms:abstract>
+        <dc:date>2017/04/14</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>An Advanced Guide to Trade Policy Analysis</z:shortTitle>
+        <z:libraryCatalog>www.un-ilibrary.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.un-ilibrary.org/content/books/9789210585194</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:41:00</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.18356/57a768e5-en</dc:description>
+        <dc:identifier>ISBN 978-92-1-058519-4</dc:identifier>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_9">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.un-ilibrary.org/content/books/9789210585194</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:41:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1093/biomet/80.1.27">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0006-3444"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Firth</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_11"/>
+        <dc:title>Bias reduction of maximum likelihood estimates</dc:title>
+        <dcterms:abstract>It is shown how, in regular parametric problems, the first-order term is removed from the asymptotic bias of maximum likelihood estimates by a suitable modification of the score function. In exponential families with canonical parameterization the effect is to penalize the likelihood by the Jeffreys invariant prior. In binomial logistic models, Poisson log linear models and certain other generalized linear models, the Jeffreys prior penalty function can be imposed in standard regression software using a scheme of iterative adjustments to the data.</dcterms:abstract>
+        <dc:date>1993-03-01</dc:date>
+        <z:libraryCatalog>Silverchair</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1093/biomet/80.1.27</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:51:34</dcterms:dateSubmitted>
+        <bib:pages>27-38</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0006-3444">
+        <prism:volume>80</prism:volume>
+        <dc:title>Biometrika</dc:title>
+        <dc:identifier>DOI 10.1093/biomet/80.1.27</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Biometrika</dcterms:alternative>
+        <dc:identifier>ISSN 0006-3444</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1093/biomet/80.1.27</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:51:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Book rdf:about="urn:isbn:978-0-691-23589-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Princeton Oxford</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Princeton University Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hansen</foaf:surname>
+                        <foaf:givenName>Bruce</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <dc:title>Econometrics</dc:title>
+        <dcterms:abstract>The most authoritative and up-to-date core econometrics textbook availableEconometrics is the quantitative language of economic theory, analysis, and empirical work, and it has become a cornerstone of graduate economics programs. Econometrics provides graduate and PhD students with an essential introduction to this foundational subject in economics and serves as an invaluable reference for researchers and practitioners. This comprehensive textbook teaches fundamental concepts, emphasizes modern, real-world applications, and gives students an intuitive understanding of econometrics.Covers the full breadth of econometric theory and methods with mathematical rigor while emphasizing intuitive explanations that are accessible to students of all backgroundsDraws on integrated, research-level datasets, provided on an accompanying websiteDiscusses linear econometrics, time series, panel data, nonparametric methods, nonlinear econometric models, and modern machine learningFeatures hundreds of exercises that enable students to learn by doingIncludes in-depth appendices on matrix algebra and useful inequalities and a wealth of real-world examplesCan serve as a core textbook for a first-year PhD course in econometrics and as a follow-up to Bruce E. Hansen’s Probability and Statistics for Economists</dcterms:abstract>
+        <dc:date>2022</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>Amazon</z:libraryCatalog>
+        <dc:identifier>ISBN 978-0-691-23589-9</dc:identifier>
+        <z:numPages>1080</z:numPages>
+    </bib:Book>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Amazon.com Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.amazon.ca/Econometrics-Bruce-Hansen/dp/0691235899</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:54:05</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1903.01690">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1536-867X,%201536-8734"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Correia</foaf:surname>
+                        <foaf:givenName>Sergio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guimarães</foaf:surname>
+                        <foaf:givenName>Paulo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zylkin</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_15"/>
+        <dcterms:isReferencedBy rdf:resource="#item_19"/>
+        <link:link rdf:resource="#item_17"/>
+        <link:link rdf:resource="#item_16"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Economics - Econometrics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>ppmlhdfe: Fast Poisson Estimation with High-Dimensional Fixed Effects</dc:title>
+        <dcterms:abstract>In this paper we present ppmlhdfe, a new Stata command for estimation of (pseudo) Poisson regression models with multiple high-dimensional fixed effects (HDFE). Estimation is implemented using a modified version of the iteratively reweighted least-squares (IRLS) algorithm that allows for fast estimation in the presence of HDFE. Because the code is built around the reghdfe package, it has similar syntax, supports many of the same functionalities, and benefits from reghdfe's fast convergence properties for computing high-dimensional least squares problems. Performance is further enhanced by some new techniques we introduce for accelerating HDFE-IRLS estimation specifically. ppmlhdfe also implements a novel and more robust approach to check for the existence of (pseudo) maximum likelihood estimates.</dcterms:abstract>
+        <dc:date>03/2020</dc:date>
+        <z:shortTitle>ppmlhdfe</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1903.01690</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:56:40</dcterms:dateSubmitted>
+        <dc:description>arXiv:1903.01690 [econ]</dc:description>
+        <bib:pages>95-115</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1536-867X,%201536-8734">
+        <prism:volume>20</prism:volume>
+        <dc:title>The Stata Journal: Promoting communications on statistics and Stata</dc:title>
+        <dc:identifier>DOI 10.1177/1536867X20909691</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>The Stata Journal: Promoting communications on statistics and Stata</dcterms:alternative>
+        <dc:identifier>ISSN 1536-867X, 1536-8734</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_15">
+        <rdf:value>Comment: For associated code and data repository, see https://github.com/sergiocorreia/ppmlhdfe</rdf:value>
+    </bib:Memo>
+    <bib:Memo rdf:about="#item_19">
+        <rdf:value>Comment: For associated code and data repository, see https://github.com/sergiocorreia/ppmlhdfe</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/1903.01690v3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:56:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_16">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1903.01690</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-10 23:56:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://cran.r-project.org/web/packages/capybara/index.html">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vargas Sepulveda</foaf:surname>
+                        <foaf:givenName>Mauricio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <prism:edition>1.0.1</prism:edition>
+        <dc:title>capybara: Fast and Memory Efficient Fitting of Linear Models with High-Dimensional Fixed Effects</dc:title>
+        <dcterms:abstract>Fast and user-friendly estimation of generalized linear models with multiple fixed effects and cluster the standard errors. The method to obtain the estimated fixed-effects coefficients is based on Stammann (2018) &lt;doi:10.48550/arXiv.1707.01815&gt; and Gaure (2013) &lt;doi:10.1016/j.csda.2013.03.024&gt;.</dcterms:abstract>
+        <dc:date>2025-05-22</dc:date>
+        <z:shortTitle>capybara</z:shortTitle>
+        <z:libraryCatalog>R-Packages</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://cran.r-project.org/web/packages/capybara/index.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-11 00:07:15</dcterms:dateSubmitted>
+        <dc:rights>Apache License (≥ 2)</dc:rights>
+    </bib:Data>
+    <bib:Document rdf:about="https://pacha.dev/tradepolicy/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vargas Sepulveda</foaf:surname>
+                        <foaf:givenName>Mauricio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_24"/>
+        <dc:title>Solutions Manual for An Advanced Guide to Trade Policy Analysis in R (3rd Edition)</dc:title>
+        <dc:date>2024-02-28</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://pacha.dev/tradepolicy/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-11 00:10:47</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_24">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://pacha.dev/tradepolicy/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-11 00:10:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326090">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1932-6203"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sepulveda</foaf:surname>
+                        <foaf:givenName>Mauricio Vargas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_26"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Algorithms</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer and information sciences</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer hardware</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Econometrics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Genome complexity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Statistical distributions</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Supercomputers</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Test statistics</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Kendallknight: An R package for efficient implementation of Kendall’s correlation coefficient computation</dc:title>
+        <dcterms:abstract>The kendallknight package introduces an efficient implementation of Kendall’s correlation coefficient computation, significantly improving the processing time for large datasets without sacrificing accuracy. The kendallknight package, following Knight (1966) and posterior literature, reduces the time complexity resulting in drastic reductions in computation time, transforming operations that would take minutes or hours into milliseconds or minutes, while maintaining precision and correctly handling edge cases and errors. The package is particularly advantageous in econometric and statistical contexts where rapid and accurate calculation of Kendall’s correlation coefficient is desirable. Benchmarks demonstrate substantial performance gains over the Base R implementation, especially for large datasets.</dcterms:abstract>
+        <dc:date>Jun 18, 2025</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Kendallknight</z:shortTitle>
+        <z:libraryCatalog>PLoS Journals</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326090</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-29 18:21:13</dcterms:dateSubmitted>
+        <dc:description>Publisher: Public Library of Science</dc:description>
+        <bib:pages>e0326090</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1932-6203">
+        <prism:volume>20</prism:volume>
+        <dc:title>PLOS ONE</dc:title>
+        <dc:identifier>DOI 10.1371/journal.pone.0326090</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>PLOS ONE</dcterms:alternative>
+        <dc:identifier>ISSN 1932-6203</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_26">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0326090&amp;type=printable</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-08-29 18:21:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_27">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>bibliography</dc:title>
+        <link:type>text/x-bibtex</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://www.R-project.org/">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Vienna, Austria</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>R Foundation for Statistical Computing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>R Core Team</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>`R`: A Language and Environment for Statistical Computing</dc:title>
+        <dc:date>2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.R-project.org/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Data rdf:about="https://CRAN.R-project.org/package=cpp11">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vaughan</foaf:surname>
+                        <foaf:givenName>Davis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hester</foaf:surname>
+                        <foaf:givenName>Jim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>François</foaf:surname>
+                        <foaf:givenName>Romain</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dcterms:isReferencedBy rdf:resource="#item_30"/>
+        <dc:title>`cpp11`: A C++11 Interface for R's C Interface</dc:title>
+        <dc:date>2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://CRAN.R-project.org/package=cpp11</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Memo rdf:about="#item_30">
+       <rdf:value>&lt;p&gt;R package version 0.4.7&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Data rdf:about="https://CRAN.R-project.org/package=pcaPP">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Filzmoser</foaf:surname>
+                        <foaf:givenName>Peter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fritz</foaf:surname>
+                        <foaf:givenName>Heinrich</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kalcher</foaf:surname>
+                        <foaf:givenName>Klaudius</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dcterms:isReferencedBy rdf:resource="#item_32"/>
+        <dc:title>`pcaPP`: Robust PCA by Projection Pursuit</dc:title>
+        <dc:date>2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://CRAN.R-project.org/package=pcaPP</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Memo rdf:about="#item_32">
+       <rdf:value>&lt;p&gt;R package version 2.0-4&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="#item_33">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0943-4062"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Christensen</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Fast algorithms for the calculation of Kendall's τ</dc:title>
+        <dc:date>2005</dc:date>
+        <z:language>eng</z:language>
+        <bib:pages>51–62</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0943-4062">
+        <prism:volume>20</prism:volume>
+        <dc:title>Computational statistics</dc:title>
+        <dc:identifier>DOI 10.1007/BF02736122</dc:identifier>
+        <prism:number>1</prism:number>
+        <dc:identifier>ISSN 0943-4062</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0165176598002559">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0165-1765"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abrevaya</foaf:surname>
+                        <foaf:givenName>Jason</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Binary search tree</dc:subject>
+        <dc:subject>Rank estimation</dc:subject>
+        <dc:title>Computation of the maximum rank correlation estimator</dc:title>
+        <dcterms:abstract>This paper shows that the objective function for the maximum rank correlation estimator can be evaluated in O(nlogn) calculations (where n is the sample size). Previously, O(n2) calculations were thought necessary for computation of the objective function.</dcterms:abstract>
+        <dc:date>1999-03</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0165176598002559</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-16</dcterms:dateSubmitted>
+        <bib:pages>279–285</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0165-1765">
+        <prism:volume>62</prism:volume>
+        <dc:title>Economics Letters</dc:title>
+        <dc:identifier>DOI 10.1016/S0165-1765(98)00255-9</dc:identifier>
+        <prism:number>3</prism:number>
+        <dc:identifier>ISSN 0165-1765</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="#item_35">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0162-1459"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Knight</foaf:surname>
+                        <foaf:givenName>William R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_36"/>
+        <dc:subject>String</dc:subject>
+        <dc:title>A Computer Method for Calculating Kendall's Tau with Ungrouped Data</dc:title>
+        <dcterms:abstract>Adapting the usual manual methods of computing Kendall's tau to automatic computation result in a running time of order N 2 . A method is described with running time of order N log N.</dcterms:abstract>
+        <dc:date>1966</dc:date>
+        <z:language>eng</z:language>
+        <bib:pages>436–439</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0162-1459">
+        <prism:volume>61</prism:volume>
+        <dc:title>Journal of the American Statistical Association</dc:title>
+        <dc:identifier>DOI 10.1080/01621459.1966.10480879</dc:identifier>
+        <prism:number>314</prism:number>
+        <dc:identifier>ISSN 0162-1459</dc:identifier>
+    </bib:Journal>
+    <bib:Memo rdf:about="#item_36">
+        <rdf:value>&lt;p&gt;Publisher: Taylor &amp;amp; Francis Group&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <rdf:Description rdf:about="https://learningcpp.org/cover.html">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Emara</foaf:surname>
+                        <foaf:givenName>Salma</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Khufu: Object-Oriented Programming using C++</dc:title>
+        <dc:date>2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://learningcpp.org/cover.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-16</dcterms:dateSubmitted>
+    </rdf:Description>
+    <bib:Article rdf:about="https://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>3</prism:volume><dc:title>The R Journal</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wickham</foaf:surname>
+                        <foaf:givenName>Hadley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>`testthat': Get Started with Testing</dc:title>
+        <dc:date>2011</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>5–10</bib:pages>
+    </bib:Article>
+    <bib:Data rdf:about="https://pacha.dev/capybara/">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sepulveda</foaf:surname>
+                        <foaf:givenName>Mauricio Vargas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dcterms:isReferencedBy rdf:resource="#item_40"/>
+        <dc:title>`capybara`: Fast and Memory Efficient Fitting of Linear Models With High-Dimensional Fixed Effects</dc:title>
+        <dc:date>2024</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://pacha.dev/capybara/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Memo rdf:about="#item_40">
+        <rdf:value>&lt;p&gt;R package version 0.6.0, https://github.com/pachadotdev/capybara&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Data rdf:about="https://CRAN.R-project.org/package=Kendall">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>McLeod</foaf:surname>
+                        <foaf:givenName>A. I.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dcterms:isReferencedBy rdf:resource="#item_42"/>
+        <dc:title>Kendall: Kendall Rank Correlation and Mann-Kendall Trend Test</dc:title>
+        <dc:date>2022</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://CRAN.R-project.org/package=Kendall</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Memo rdf:about="#item_42">
+       <rdf:value>&lt;p&gt;R package version 2.2.1&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Article rdf:about="https://doi.org/10.1162/rest.88.4.641">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0034-6535"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silva</foaf:surname>
+                        <foaf:givenName>J. M. C. Santos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tenreyro</foaf:surname>
+                        <foaf:givenName>Silvana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Log of Gravity</dc:title>
+        <dcterms:abstract>Although economists have long been aware of Jensen's inequality, many econometric applications have neglected an important implication of it: under heteroskedasticity, the parameters of log-linearized models estimated by OLS lead to biased estimates of the true elasticities. We explain why this problem arises and propose an appropriate estimator. Our criticism of conventional practices and the proposed solution extend to a broad range of applications where log-linearized equations are estimated. We develop the argument using one particular illustration, the gravity equation for trade. We find significant differences between estimates obtained with the proposed estimator and those obtained with the traditional method.</dcterms:abstract>
+        <dc:date>2006-11</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1162/rest.88.4.641</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-03-20</dcterms:dateSubmitted>
+        <bib:pages>641–658</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0034-6535">
+        <prism:volume>88</prism:volume>
+        <dc:title>The Review of Economics and Statistics</dc:title>
+        <dc:identifier>DOI 10.1162/rest.88.4.641</dc:identifier>
+        <prism:number>4</prism:number>
+        <dc:identifier>ISSN 0034-6535</dc:identifier>
+    </bib:Journal>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2409.09066">
+        <z:itemType>document</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sepúlveda</foaf:surname>
+                        <foaf:givenName>Mauricio Vargas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_45"/>
+        <dc:subject>Economics - General Economics</dc:subject>
+        <dc:subject>Quantitative Finance - Economics</dc:subject>
+        <dc:subject>Statistics - Computation</dc:subject>
+        <dc:subject>Statistics - Methodology</dc:subject>
+        <dc:title>Replicating The Log of Gravity</dc:title>
+        <dcterms:abstract>This document replicates the main results from Santos Silva and Tenreyro (2006 in R. The original results were obtained in TSP back in 2006. The idea here is to be explicit regarding the conceptual approach to regression in R. For most of the replication I used base R without external libraries except when it was absolutely necessary. The findings are consistent with the original article and reveal that the replication effort is minimal, without the need to contact the authors for clarifications or incur into data transformations or filtering not mentioned in the article.</dcterms:abstract>
+        <dc:date>2024-09</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2409.09066</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-10-16</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.48550/arXiv.2409.09066</dc:description>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_45">
+       <rdf:value>&lt;p&gt;arXiv:2409.09066&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-92-870-4368-9">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>WTO iLibrary</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yotov</foaf:surname>
+                        <foaf:givenName>Yoto V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Piermartini</foaf:surname>
+                        <foaf:givenName>Roberta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Monteiro</foaf:surname>
+                        <foaf:givenName>Jose-Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Larch</foaf:surname>
+                        <foaf:givenName>Mario</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>An Advanced Guide to Trade Policy Analysis: The Structural Gravity Model</dc:title>
+        <dcterms:abstract>An Advanced Guide to Trade Policy Analysis is a follow up to A Practical Guide to Trade Policy Analysis. The Advanced Guide provides the most recent tools for analysis of trade policy using structural gravity models. Written by experts who have contributed to the development of theoretical and empirical methods in the academic gravity literature and who have rich practical experience in the field, this publication explains how to conduct partial equilibrium estimations as well as general equilibrium analysis with structural gravity models and contains practical guidance on how to apply these tools to concrete policy questions.</dcterms:abstract>
+        <dc:date>2016-11</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>An Advanced Guide to Trade Policy Analysis</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.wto-ilibrary.org/content/books/9789287043689</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-09-05</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.30875/abc0167e-en</dc:description>
+        <dc:identifier>ISBN 978-92-870-4368-9</dc:identifier>
+    </bib:Book>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0167947313001266">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0167-9473"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaure</foaf:surname>
+                        <foaf:givenName>Simen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>Alternating projections</dc:subject>
+        <dc:subject>Fixed effect estimator</dc:subject>
+        <dc:subject>High dimensional category variables</dc:subject>
+        <dc:subject>Kaczmarz method</dc:subject>
+        <dc:subject>Multiple fixed effects</dc:subject>
+        <dc:subject>Panel data</dc:subject>
+        <dc:subject>Two-way fixed effects</dc:subject>
+        <dc:title>OLS with multiple high dimensional category variables</dc:title>
+        <dcterms:abstract>A new algorithm is proposed for OLS estimation of linear models with multiple high-dimensional category variables. It is a generalization of the within transformation to arbitrary number of category variables. The approach, unlike other fast methods for solving such problems, provides a covariance matrix for the remaining coefficients. The article also sets out a method for solving the resulting sparse system, and the new scheme is shown, by some examples, to be comparable in computational efficiency to other fast methods. The method is also useful for transforming away groups of pure control dummies. A parallelized implementation of the proposed method has been made available as an R-package lfe on CRAN.</dcterms:abstract>
+        <dc:date>2013-10</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0167947313001266</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-02-25</dcterms:dateSubmitted>
+        <bib:pages>8–18</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0167-9473">
+        <prism:volume>66</prism:volume>
+        <dc:title>Computational Statistics &amp; Data Analysis</dc:title>
+        <dc:identifier>DOI 10.1016/j.csda.2013.03.024</dc:identifier>
+        <dc:identifier>ISSN 0167-9473</dc:identifier>
+    </bib:Journal>
+    <rdf:Description rdf:about="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1610001101">
+        <z:itemType>document</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Government of Canada</foaf:surname>
+                        <foaf:givenName>Statistics Canada</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_49"/>
+        <dc:title>Manufacturing sales, by industry for 15 Selected Census Metropolitan Areas</dc:title>
+        <dcterms:abstract>Monthly Canadian manufacturer's sales for 15 census metropolitan areas (CMA) for durable and non-durable goods by North American Industry Classification System (NAICS). Data in thousands of dollars. Unadjusted and seasonally adjusted data available from January 2013 to the current reference month. Not all combinations are available.</dcterms:abstract>
+        <dc:date>2019-09</dc:date>
+        <z:language>eng</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1610001101</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-05-15</dcterms:dateSubmitted>
+    </rdf:Description>
+    <bib:Memo rdf:about="#item_49">
+       <rdf:value>&lt;p&gt;Last Modified: 2025-05-15&lt;/p&gt;</rdf:value>
+    </bib:Memo>
+    <bib:Book rdf:about="urn:isbn:978-0-316-33943-8">
+        <z:itemType>book</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>New York Boston</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Grand Central Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vigen</foaf:surname>
+                        <foaf:givenName>Tyler</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Spurious Correlations</dc:title>
+        <dcterms:abstract>&quot;Spurious Correlations ... is the most fun you'll ever have with graphs.&quot; – Bustle Military intelligence analyst and Harvard Law student Tyler Vigen illustrates the golden rule that &quot;correlation does not equal causation&quot; through hilarious graphs inspired by his viral website.Is there a correlation between Nic Cage films and swimming pool accidents? What about beef consumption and people getting struck by lightning? Absolutely not. But that hasn't stopped millions of people from going to tylervigen.com and asking, &quot;Wait, what?&quot; Vigen has designed software that scours enormous data sets to find unlikely statistical correlations. He began pulling the funniest ones for his website and has since gained millions of views, hundreds of thousands of likes, and tons of media coverage. Subversive and clever, Spurious Correlations is geek humor at its finest, nailing our obsession with data and conspiracy theory.</dcterms:abstract>
+        <dc:date>2015-05</dc:date>
+        <z:language>English</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.indigo.ca/en-ca/spurious-correlations/9780316339438.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:identifier>ISBN 978-0-316-33943-8</dc:identifier>
+    </bib:Book>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>bibliography</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.R-project.org/"/>
+        <dcterms:hasPart rdf:resource="https://CRAN.R-project.org/package=cpp11"/>
+        <dcterms:hasPart rdf:resource="https://CRAN.R-project.org/package=pcaPP"/>
+        <dcterms:hasPart rdf:resource="#item_33"/>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S0165176598002559"/>
+        <dcterms:hasPart rdf:resource="#item_35"/>
+        <dcterms:hasPart rdf:resource="https://learningcpp.org/cover.html"/>
+        <dcterms:hasPart rdf:resource="https://journal.r-project.org/archive/2011-1/RJournal_2011-1_Wickham.pdf"/>
+        <dcterms:hasPart rdf:resource="https://pacha.dev/capybara/"/>
+        <dcterms:hasPart rdf:resource="https://CRAN.R-project.org/package=Kendall"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1162/rest.88.4.641"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2409.09066"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-92-870-4368-9"/>
+        <dcterms:hasPart rdf:resource="https://www.sciencedirect.com/science/article/pii/S0167947313001266"/>
+        <dcterms:hasPart rdf:resource="https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1610001101"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-0-316-33943-8"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>capybara-r-consortium</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.stata.com/order/new/edu/profplus/student-pricing/"/>
+        <dcterms:hasPart rdf:resource="https://www.stata.com/order/new/edu/lab-licenses/dl/"/>
+        <dcterms:hasPart rdf:resource="https://madrury.github.io/jekyll/update/statistics/2016/07/20/lm-in-R.html"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-92-1-058519-4"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1093/biomet/80.1.27"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-0-691-23589-9"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1903.01690"/>
+        <dcterms:hasPart rdf:resource="https://cran.r-project.org/web/packages/capybara/index.html"/>
+        <dcterms:hasPart rdf:resource="https://pacha.dev/tradepolicy/"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>kendallknight</dc:title>
+        <dcterms:hasPart rdf:resource="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0326090"/>
+    </z:Collection>
+</rdf:RDF>
